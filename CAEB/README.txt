@@ -1,0 +1,3 @@
+This version of CAEB will construct the geometry...
+For : Circular tokamaks
+From: the dimensions of a single coil
