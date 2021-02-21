@@ -1,5 +1,9 @@
 # CAE
 
+About this code.
+
+https://www.researchgate.net/publication/335468201_CAE_v11--A_Code_for_the_Magnetic_Field_Due_to_Arbitrary_Electromagnets
+
 Required python libraries.
 
 1. sudo apt install python3-pip
