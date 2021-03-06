@@ -184,7 +184,7 @@ def B_ra(µ, Nmbr, r_inner, r_outer, phy_1, phy_2, tckns, J, operator, cnt_cart,
 
         # magnetic field calculation
         Hx = cos(phy)* I_Rr1 - sin(phy)* I_Rr2
-        Hy = cos(phy)* I_Rr2 + sin(phy)* I_Rr2
+        Hy = cos(phy)* I_Rr2 + sin(phy)* I_Rr1
         Hz = -I_Zr1 + I_Zr2
         
         B_i = (µ* J[i]/ (4* pi))* array([ Hx, Hy, Hz ])
